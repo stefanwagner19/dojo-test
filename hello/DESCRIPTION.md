@@ -1,1 +1,1 @@
-The first module in this example dojo.
+The first module in this example dojo. TEST
